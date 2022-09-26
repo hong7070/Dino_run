@@ -11,7 +11,7 @@ display_surface = pygame.display.set_mode(
     (width_screen, height_screen))  # display
 pygame.display.set_caption("Dino run")  # window
 
-WHITE = (255, 255, 254)
+WHITE = (255, 255, 253)
 BLACK = (0, 0, 0)
 
 
